@@ -1,6 +1,6 @@
 # SLAYER
 Autonomous line following robot
-Objective: To build an autonomous robot which can move  an object from one point to another in a room
+Objective: To build an autonomous robot which can move from one point to another in a room
 
 Components Required: 
 
@@ -26,10 +26,10 @@ Description (Some Insights):
   map a graph for smooth transportation.
 
 Team Members: 
-Sandipan Haldar
-Vishal Agarwal
-Satya Prakash
-Dhiraj Tamgadge
+Sandipan Haldar,
+Vishal Agarwal,
+Satya Prakash,
+Dhiraj Tamgadge,
 Abhinandan Gogoi
 
 
@@ -37,7 +37,6 @@ Abhinandan Gogoi
 
 
 Applications: 
-This can be used in a warehouse or factory where number of workplaces is greater than number of tools.
-Reduces human effort in labour.
+This can be used in a warehouse or factory for tranportation of goods
 Help physically challenged or elderly people to get any item from a specific place in a room.
     
